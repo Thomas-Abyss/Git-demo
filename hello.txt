@@ -6,7 +6,7 @@ hello,git
 hello,git
 hello,git
 hello,git
-hello,git
+hello,git hot-fix merge test2
 hello,git master merge test
 
 my hot-fix first modified
